@@ -1,0 +1,10 @@
+
+Link do download do git: https://git-scm.com/downloads
+
+
+
+
+Comandos do Git:
+git status = exibe situação atual
+
+
